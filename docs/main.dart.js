@@ -86682,7 +86682,7 @@ case 4:p=3
 i=o.pop()
 m=A.ab(i)
 A.tq("API not available, using mock dispatch KPIs data: "+A.l(m))
-q=new A.iv(1850.75,15.5,3200,62.5)
+q=new A.iv(1850.75,15.5,3200,0.625)
 s=1
 break
 s=6
