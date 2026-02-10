@@ -84647,7 +84647,7 @@ A.X4.prototype={}
 A.ui.prototype={
 J(a){var s=null,r=this.c
 r=r==null?s:"GoException: "+r.a
-return A.Cy(!0,A.eA(A.bU(A.b([B.Ve,B.aJ,A.aX(r==null?"page not found":r,s,s,s,s),B.aJ,new A.Ey(new A.a5m(a),B.Vq,s)],t.p),B.w,B.bv,B.r),s,s),!1,B.aP,!0)}}
+return A.Cy(!0,A.eA(A.bU(A.b([B.Ve,B.aJ,A.aX(r==null?"page not found":r,s,s,s,s),B.aJ,new A.Ey(new A.a5m(a),B.Vr,s)],t.p),B.w,B.bv,B.r),s,s),!1,B.aP,!0)}}
 A.a5m.prototype={
 $0(){return A.ut(this.a).n5("/",null)},
 $S:0}
@@ -85803,7 +85803,7 @@ return new A.n4(g,o,m,n,j,i,0,B.d.eg(k,5,95),l)},
 $S:567}
 A.Nb.prototype={
 J(a){var s=null,r=A.w8(s,A.aCV(B.a2,s,s,B.aI),!0)
-return new A.uQ($.aLR(),"SEDAI Solar2Grid",r,!1,s)}}
+return new A.uQ($.aLR(),"SolarPilot",r,!1,s)}}
 A.awh.prototype={
 $3(a,b,c){return new A.qq(c,null)},
 $S:568}
@@ -85960,7 +85960,7 @@ o.a.toString
 r=o.w
 p=r?n:o.ga4g()
 r=r?B.PJ:B.GG
-s.push(A.ayF(r,B.Vy,p,A.aOL(n,n,m,n,n,n,n,n,n,B.j,n,n,B.nt,n,n,n,n,n,n,n)))
+s.push(A.ayF(r,B.Vz,p,A.aOL(n,n,m,n,n,n,n,n,n,B.j,n,n,B.nt,n,n,n,n,n,n,n)))
 s=A.b([A.ds(s,B.w,B.v,B.r,0),B.by,A.aX(o.a.d.d,n,n,B.Tp,n)],q)
 o.a.toString
 return A.jW(A.Np(new A.bb(B.aj,A.bU(s,B.a7,B.v,B.r),n),1),n,3,B.Fs)}}
@@ -86050,7 +86050,7 @@ return s.x=!s.x},
 $S:0}
 A.aoT.prototype={
 $1(a){var s
-if(a==null)return A.eA(A.bU(A.b([B.GI,B.aJ,B.Vm,B.aJ,A.ayF(B.of,B.Vp,this.a.gQG(),null)],t.p),B.w,B.bv,B.r),null,null)
+if(a==null)return A.eA(A.bU(A.b([B.GI,B.aJ,B.Vn,B.aJ,A.ayF(B.of,B.Vq,this.a.gQG(),null)],t.p),B.w,B.bv,B.r),null,null)
 s=this.a
 return s.x?s.a51(a):s.a52(a)},
 $S:579}
@@ -86189,7 +86189,7 @@ A.apQ.prototype={
 $0(){return this.a.w=!1},
 $S:0}
 A.apS.prototype={
-$1(a){if(a==null)return A.eA(A.bU(A.b([B.Gx,B.aJ,B.Vv,B.aJ,A.ayF(B.of,B.Vt,this.a.gQH(),null)],t.p),B.w,B.bv,B.r),null,null)
+$1(a){if(a==null)return A.eA(A.bU(A.b([B.Gx,B.aJ,B.Vw,B.aJ,A.ayF(B.of,B.Vu,this.a.gQH(),null)],t.p),B.w,B.bv,B.r),null,null)
 return this.a.a56(a)},
 $S:585}
 A.apU.prototype={
@@ -86253,7 +86253,7 @@ r=A.b([A.aX(n.b,o,o,B.zP,o),A.aX("ID: "+n.a,o,o,A.d3(o,o,B.aF,o,o,o,o,o,o,o,o,14
 q=n.f
 if(q!=null)r.push(A.aX("Capacity: "+B.d.W(q,1)+" kW",o,o,A.d3(o,o,B.aF,o,o,o,o,o,o,o,o,14,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o))
 q=t.l7
-s=A.aFk(new A.Pv(B.aj,B.mg,A.bU(A.b([A.jW(new A.bb(B.aj,A.ds(A.b([B.GD,B.zn,A.je(A.bU(r,B.a7,B.v,B.r),1)],s),B.w,B.v,B.r,0),o),o,2,o),B.aJ,B.Vx,B.d_,A.p7(m,new A.ad6(),new A.ad7(),new A.ad8(),t.fa,q),B.PK,B.Vw,B.d_,A.p7(k,new A.ad9(p),new A.ada(p),new A.adb(p),t.d,q),B.by,A.p7(l,new A.adc(p),new A.add(p),new A.ade(p),t.fy,q)],s),B.a7,B.v,B.r),o),new A.adf(b))}return A.vA(j,s,o)},
+s=A.aFk(new A.Pv(B.aj,B.mg,A.bU(A.b([A.jW(new A.bb(B.aj,A.ds(A.b([B.GD,B.zn,A.je(A.bU(r,B.a7,B.v,B.r),1)],s),B.w,B.v,B.r,0),o),o,2,o),B.aJ,B.Vy,B.d_,A.p7(m,new A.ad6(),new A.ad7(),new A.ad8(),t.fa,q),B.PK,B.Vx,B.d_,A.p7(k,new A.ad9(p),new A.ada(p),new A.adb(p),t.d,q),B.by,A.p7(l,new A.adc(p),new A.add(p),new A.ade(p),t.fy,q)],s),B.a7,B.v,B.r),o),new A.adf(b))}return A.vA(j,s,o)},
 jW(a,b,c,d,e){var s=null,r=A.az(B.d.aB(25.5),b.C()>>>16&255,b.C()>>>8&255,b.C()&255),q=A.jU(12),p=t.p
 return A.jW(new A.bb(B.aj,A.ds(A.b([A.e2(s,A.ng(a,b,s,32),B.u,s,s,new A.de(r,s,s,q,s,s,B.b7),s,s,s,s,B.h1,s,s,s),B.lz,A.je(A.bU(A.b([A.aX(d,s,s,A.d3(s,s,B.aF,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s),B.ir,A.aX(e,s,s,B.RG,s),A.aX(c,s,s,A.d3(s,s,B.fK,s,s,s,s,s,s,s,s,12,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s)],p),B.a7,B.v,B.r),1)],p),B.w,B.v,B.r,0),s),s,2,s)}}
 A.adf.prototype={
@@ -86311,7 +86311,7 @@ A.add.prototype={
 $2(a,b){return this.a.jW(B.o7,B.bk,"Failed to load KPIs","KPIs","Error")},
 $S:237}
 A.vL.prototype={
-pT(a,b){var s=null,r=b.e1($.aCb(),t.Ka),q=b.e1($.h0(),t.J),p=b.e1($.aMy(),t.T_),o=A.yc(s,B.aI,B.j,B.VA),n=A.b([],t.p)
+pT(a,b){var s=null,r=b.e1($.aCb(),t.Ka),q=b.e1($.h0(),t.J),p=b.e1($.aMy(),t.T_),o=A.yc(s,B.aI,B.j,B.Vm),n=A.b([],t.p)
 if(q!=null)n.push(A.e2(s,A.p7(p,new A.aj6(this),new A.aj7(),new A.aj8(),t.gL,t.jK),B.u,s,s,s,s,s,s,B.aj,s,s,s,1/0))
 n.push(A.je(A.p7(r,new A.aj9(q,b),new A.aja(b),new A.ajb(),t.EM,t.l7),1))
 return A.vA(o,A.bU(n,B.w,B.v,B.r),s)},
@@ -91955,14 +91955,14 @@ B.Ch=new A.ez(null,null,null,B.Mo,null)
 B.FE=new A.aB(24,24,24,24)
 B.Mp=new A.bb(B.FE,B.dj,null)
 B.je=new A.ez(null,null,null,B.Mp,null)
-B.Vu=new A.bQ("Error loading validation data",null,null,null,null,null,null)
-B.Mq=new A.bb(B.aj,B.Vu,null)
+B.Vv=new A.bQ("Error loading validation data",null,null,null,null,null,null)
+B.Mq=new A.bb(B.aj,B.Vv,null)
 B.Ci=new A.ez(null,null,null,B.Mq,null)
 B.Cj=new A.yE(null,null,null,null,null,null)
 B.VB=new A.bQ("No sites available",null,null,null,null,null,null)
 B.Ck=new A.h5(B.X,null,null,B.VB,null)
-B.Vr=new A.bQ("Please select a site from the Sites tab",null,null,null,null,null,null)
-B.fy=new A.h5(B.X,null,null,B.Vr,null)
+B.Vt=new A.bQ("Please select a site from the Sites tab",null,null,null,null,null,null)
+B.fy=new A.h5(B.X,null,null,B.Vt,null)
 B.Cl=new A.yH(null,null,null,null,null,null,null,null,null)
 B.dk=new A.tL(0,"none")
 B.dl=new A.tL(1,"isTrue")
@@ -94075,12 +94075,12 @@ B.PT=new A.kx(3,"hide")
 B.YU=new A.kx(4,"remove")
 B.PU=new A.kx(5,"timeout")
 B.PV=new A.vP(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Vo=new A.bQ("Forecast updated successfully",null,null,null,null,null,null)
-B.PW=new A.iH(B.Vo,null,null,null,null,null,null,null,null,null,null,null,null,B.cH,!1,null,null,null,B.J,null)
-B.Vz=new A.bQ("Dispatch updated successfully",null,null,null,null,null,null)
-B.PX=new A.iH(B.Vz,null,null,null,null,null,null,null,null,null,null,null,null,B.cH,!1,null,null,null,B.J,null)
-B.Vn=new A.bQ("Alert acknowledged",null,null,null,null,null,null)
-B.PY=new A.iH(B.Vn,null,null,null,null,null,null,null,null,null,null,null,null,B.cH,!1,null,null,null,B.J,null)
+B.Vp=new A.bQ("Forecast updated successfully",null,null,null,null,null,null)
+B.PW=new A.iH(B.Vp,null,null,null,null,null,null,null,null,null,null,null,null,B.cH,!1,null,null,null,B.J,null)
+B.VA=new A.bQ("Dispatch updated successfully",null,null,null,null,null,null)
+B.PX=new A.iH(B.VA,null,null,null,null,null,null,null,null,null,null,null,null,B.cH,!1,null,null,null,B.J,null)
+B.Vo=new A.bQ("Alert acknowledged",null,null,null,null,null,null)
+B.PY=new A.iH(B.Vo,null,null,null,null,null,null,null,null,null,null,null,null,B.cH,!1,null,null,null,B.J,null)
 B.Vk=new A.bQ("Forecast updated (demo mode)",null,null,null,null,null,null)
 B.PZ=new A.iH(B.Vk,null,null,null,null,null,null,null,null,null,null,null,null,B.cH,!1,null,null,null,B.J,null)
 B.Vg=new A.bQ("Please select a site first",null,null,null,null,null,null)
@@ -94467,18 +94467,18 @@ B.Vj=new A.bQ("Solar Forecast",null,null,null,null,null,null)
 B.lG=new A.n(!0,null,null,null,null,null,18,B.ar,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.zR=new A.bQ("Model Validation",null,B.lG,null,null,null,null)
 B.Vl=new A.bQ("No validation data available",null,null,null,null,null,null)
-B.Vm=new A.bQ("No dispatch data available",null,null,null,null,null,null)
-B.Vp=new A.bQ("Run Dispatch",null,null,null,null,null,null)
+B.Vm=new A.bQ("SolarPilot v2.2 - \u4e2d\u6587\u7ad9\u70b9",null,null,null,null,null,null)
+B.Vn=new A.bQ("No dispatch data available",null,null,null,null,null,null)
+B.Vq=new A.bQ("Run Dispatch",null,null,null,null,null,null)
 B.S6=new A.n(!0,B.j,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Vq=new A.bQ("Go to home page",null,B.S6,null,null,null,null)
-B.Vs=new A.bQ("SEDAI Solar2Grid v2.2",null,null,null,null,null,null)
-B.Vt=new A.bQ("Run Forecast",null,null,null,null,null,null)
-B.Vv=new A.bQ("No forecast data available",null,null,null,null,null,null)
-B.Vw=new A.bQ("Today's KPIs",null,B.lG,null,null,null,null)
-B.Vx=new A.bQ("Model Health",null,B.lG,null,null,null,null)
-B.Vy=new A.bQ("ACK",null,null,null,null,null,null)
+B.Vr=new A.bQ("Go to home page",null,B.S6,null,null,null,null)
+B.Vs=new A.bQ("SolarPilot v2.2",null,null,null,null,null,null)
+B.Vu=new A.bQ("Run Forecast",null,null,null,null,null,null)
+B.Vw=new A.bQ("No forecast data available",null,null,null,null,null,null)
+B.Vx=new A.bQ("Today's KPIs",null,B.lG,null,null,null,null)
+B.Vy=new A.bQ("Model Health",null,B.lG,null,null,null,null)
+B.Vz=new A.bQ("ACK",null,null,null,null,null,null)
 B.zS=new A.bQ("",null,null,null,null,null,null)
-B.VA=new A.bQ("SEDAI Solar2Grid v2.2 - \u4e2d\u6587\u7ad9\u70b9",null,null,null,null,null,null)
 B.YW=new A.akU(0,"system")
 B.LX=new A.h(0.056,0.024)
 B.M9=new A.h(0.108,0.3085)

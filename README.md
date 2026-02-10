@@ -1,4 +1,4 @@
-# SEDAI Solar2Grid
+# SolarPilot
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.16+-blue.svg)](https://flutter.dev/)
 [![Python](https://img.shields.io/badge/Python-3.10+-green.svg)](https://www.python.org/)
@@ -6,7 +6,7 @@
 
 **智能光储调度系统** - 基于物理模型的太阳能预测与电池能量管理系统
 
-![Overview](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=SEDAI+Solar2Grid+Overview)
+![Overview](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=SolarPilot+Overview)
 
 ## 🌟 核心功能
 
