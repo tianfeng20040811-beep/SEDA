@@ -84659,7 +84659,7 @@ A.X5.prototype={}
 A.ul.prototype={
 J(a){var s=null,r=this.c
 r=r==null?s:"GoException: "+r.a
-return A.CA(!0,A.eB(A.bU(A.b([B.Vi,B.aJ,A.aV(r==null?"page not found":r,s,s,s,s),B.aJ,new A.EA(new A.a5p(a),B.Vx,s)],t.p),B.w,B.bv,B.r),s,s),!1,B.aP,!0)}}
+return A.CA(!0,A.eB(A.bU(A.b([B.Vi,B.aJ,A.aV(r==null?"page not found":r,s,s,s,s),B.aJ,new A.EA(new A.a5p(a),B.Vw,s)],t.p),B.w,B.bv,B.r),s,s),!1,B.aP,!0)}}
 A.a5p.prototype={
 $0(){return A.uw(this.a).n6("/",null)},
 $S:0}
@@ -84706,7 +84706,7 @@ return A.cw(s,s,this.$ti.h("fL<1>").a(this.c).x,!1,s,!1,!0,s,s,s,s,s,s,s,s,s,s,s
 yq(a,b,c,d){return this.$ti.h("fL<1>").a(this.c).CW.$4(a,b,c,d)}}
 A.qK.prototype={}
 A.uU.prototype={
-J(a){var s=null,r=A.ye(s,s,s,B.Vn),q=this.c
+J(a){var s=null,r=A.ye(s,s,s,B.Vm),q=this.c
 q=q==null?s:"GoException: "+q.a
 if(q==null)q="page not found"
 return A.vD(r,A.eB(A.bU(A.b([new A.CU(q,s),A.aA1(B.Vd,new A.abH(a),s)],t.p),B.w,B.bv,B.r),s,s),s)}}
@@ -85979,7 +85979,7 @@ A.ar8.prototype={
 $0(){return this.a.d=this.b},
 $S:0}
 A.tC.prototype={
-pU(a,b){var s=null,r=b.e1($.h3(),t.J),q=b.e1($.Jo(),t.Nm),p=A.ye(A.b([A.Ao(s,s,B.ks,s,s,new A.a0b(b),s,s,"Refresh Alerts")],t.p),B.bk,B.j,B.Vl)
+pU(a,b){var s=null,r=b.e1($.h3(),t.J),q=b.e1($.Jo(),t.Nm),p=A.ye(A.b([A.Ao(s,s,B.ks,s,s,new A.a0b(b),s,s,"Refresh Alerts")],t.p),B.bk,B.j,B.Vk)
 return A.vD(p,r==null?B.fz:A.p9(q,new A.a0c(b),new A.a0d(b),new A.a0e(),t._X,t.jK),s)}}
 A.a0b.prototype={
 $0(){var s=this.a,r=$.Jo()
@@ -86180,7 +86180,7 @@ return s.x=!s.x},
 $S:0}
 A.aoY.prototype={
 $1(a){var s
-if(a==null||a.e.length===0)return A.eB(A.bU(A.b([B.GK,B.aJ,B.Vt,B.aJ,A.ayJ(B.og,B.Vw,this.a.gQM(),null)],t.p),B.w,B.bv,B.r),null,null)
+if(a==null||a.e.length===0)return A.eB(A.bU(A.b([B.GK,B.aJ,B.Vs,B.aJ,A.ayJ(B.og,B.Vv,this.a.gQM(),null)],t.p),B.w,B.bv,B.r),null,null)
 s=this.a
 return s.x?s.a5c(a):s.a5d(a)},
 $S:582}
@@ -86288,7 +86288,7 @@ return A.O($async$xl,r)},
 J(a){var s,r=this,q=null,p=r.gmS(),o=p.e1($.h3(),t.J),n=p.e1($.Jp(),t.hY)
 p=r.w
 s=p?B.zq:B.ks
-s=A.ye(A.b([A.Ao(q,q,s,q,q,p?q:r.gQN(),q,q,"Run Forecast")],t.p),B.a6,B.j,B.Vp)
+s=A.ye(A.b([A.Ao(q,q,s,q,q,p?q:r.gQN(),q,q,"Run Forecast")],t.p),B.a6,B.j,B.Vo)
 return A.vD(s,o==null?B.fz:A.p9(n,new A.apX(r),new A.apY(r),new A.apZ(),t.Tw,t.jK),q)},
 a5h(a){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d=null,c=a.e
 if(c.length===0)return B.mK
@@ -86446,7 +86446,7 @@ A.adi.prototype={
 $2(a,b){return this.a.jW(B.o8,B.bk,"Failed to load KPIs","KPIs","Error")},
 $S:228}
 A.vO.prototype={
-pU(a,b){var s=null,r=b.e1($.aCf(),t.Ka),q=b.e1($.h3(),t.J),p=b.e1($.aMC(),t.T_),o=A.ye(s,B.aI,B.j,B.Vk),n=A.b([],t.p)
+pU(a,b){var s=null,r=b.e1($.aCf(),t.Ka),q=b.e1($.h3(),t.J),p=b.e1($.aMC(),t.T_),o=A.ye(s,B.aI,B.j,B.Vy),n=A.b([],t.p)
 if(q!=null)n.push(A.dR(s,A.p9(p,new A.ajb(this),new A.ajc(),new A.ajd(),t.gL,t.jK),B.u,s,s,s,s,s,s,B.aj,s,s,s,1/0))
 n.push(A.ji(A.p9(r,new A.aje(q,b),new A.ajf(b),new A.ajg(),t.EM,t.l7),1))
 return A.vD(o,A.bU(n,B.w,B.v,B.r),s)},
@@ -86455,7 +86455,7 @@ return A.bU(A.b([A.aV(a,s,s,A.cX(s,s,B.aF,s,s,s,s,s,s,s,s,12,s,s,B.an,s,s,!0,s,s
 A.ajb.prototype={
 $1(a){var s,r,q,p,o,n,m,l,k,j,i=null
 if(a==null){s=t.p
-return A.jY(new A.bb(B.aj,A.bU(A.b([A.dt(A.b([A.dR(i,i,B.u,i,i,B.B2,i,12,i,i,i,i,i,12),B.d1,B.zS],s),B.w,B.v,B.r,0),B.co,B.Vs],s),B.w,B.v,B.r),i),i,i,i)}if(a.Kh()==="GREEN")r=B.ck
+return A.jY(new A.bb(B.aj,A.bU(A.b([A.dt(A.b([A.dR(i,i,B.u,i,i,B.B2,i,12,i,i,i,i,i,12),B.d1,B.zS],s),B.w,B.v,B.r,0),B.co,B.Vr],s),B.w,B.v,B.r),i),i,i,i)}if(a.Kh()==="GREEN")r=B.ck
 else r=a.Kh()==="AMBER"?B.kR:B.bk
 s=t.p
 q=A.dt(A.b([A.dR(i,i,B.u,i,i,new A.d7(r,i,i,i,A.b([new A.dP(1,B.cy,A.aA(B.d.aB(127.5),r.C()>>>16&255,r.C()>>>8&255,r.C()&255),B.f,4)],t.sq),i,B.c9),i,16,i,i,i,i,i,16),B.d1,B.zS,B.Q4,new A.Kl(A.aV(a.ZJ(),i,i,B.lI,i),r,i)],s),B.w,B.v,B.r,0)
@@ -92181,8 +92181,8 @@ B.dl=new A.fH(B.W,null,null,B.Cq,null)
 B.Mp=new A.bb(B.aj,B.dl,null)
 B.Z2=new A.anz(0,"elevated")
 B.mJ=new A.eA(null,null,null,B.Mp,null)
-B.Vo=new A.bJ("No model health data available",null,null,null,null,null,null)
-B.Mq=new A.bb(B.aj,B.Vo,null)
+B.Vn=new A.bJ("No model health data available",null,null,null,null,null,null)
+B.Mq=new A.bb(B.aj,B.Vn,null)
 B.Ci=new A.eA(null,null,null,B.Mq,null)
 B.FF=new A.aB(24,24,24,24)
 B.Mr=new A.bb(B.FF,B.dl,null)
@@ -92191,12 +92191,12 @@ B.VA=new A.bJ("Error loading validation data",null,null,null,null,null,null)
 B.Ms=new A.bb(B.aj,B.VA,null)
 B.Cj=new A.eA(null,null,null,B.Ms,null)
 B.Ck=new A.yG(null,null,null,null,null,null)
-B.Vr=new A.bJ("No data points",null,null,null,null,null,null)
-B.mK=new A.fH(B.W,null,null,B.Vr,null)
+B.Vq=new A.bJ("No data points",null,null,null,null,null,null)
+B.mK=new A.fH(B.W,null,null,B.Vq,null)
 B.VG=new A.bJ("No sites available",null,null,null,null,null,null)
 B.Cl=new A.fH(B.W,null,null,B.VG,null)
-B.Vy=new A.bJ("Please select a site from the Sites tab",null,null,null,null,null,null)
-B.fz=new A.fH(B.W,null,null,B.Vy,null)
+B.Vx=new A.bJ("Please select a site from the Sites tab",null,null,null,null,null,null)
+B.fz=new A.fH(B.W,null,null,B.Vx,null)
 B.Cm=new A.yJ(null,null,null,null,null,null,null,null,null)
 B.dm=new A.tO(0,"none")
 B.dn=new A.tO(1,"isTrue")
@@ -94310,16 +94310,16 @@ B.PV=new A.kz(3,"hide")
 B.YZ=new A.kz(4,"remove")
 B.PW=new A.kz(5,"timeout")
 B.PX=new A.vS(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Vv=new A.bJ("Forecast updated successfully",null,null,null,null,null,null)
-B.PY=new A.iL(B.Vv,null,null,null,null,null,null,null,null,null,null,null,null,B.cI,!1,null,null,null,B.J,null)
+B.Vu=new A.bJ("Forecast updated successfully",null,null,null,null,null,null)
+B.PY=new A.iL(B.Vu,null,null,null,null,null,null,null,null,null,null,null,null,B.cI,!1,null,null,null,B.J,null)
 B.VF=new A.bJ("Dispatch updated successfully",null,null,null,null,null,null)
 B.PZ=new A.iL(B.VF,null,null,null,null,null,null,null,null,null,null,null,null,B.cI,!1,null,null,null,B.J,null)
-B.Vu=new A.bJ("Alert acknowledged",null,null,null,null,null,null)
-B.Q_=new A.iL(B.Vu,null,null,null,null,null,null,null,null,null,null,null,null,B.cI,!1,null,null,null,B.J,null)
-B.Vq=new A.bJ("Forecast updated (demo mode)",null,null,null,null,null,null)
-B.Q0=new A.iL(B.Vq,null,null,null,null,null,null,null,null,null,null,null,null,B.cI,!1,null,null,null,B.J,null)
-B.Vm=new A.bJ("Please select a site first",null,null,null,null,null,null)
-B.zs=new A.iL(B.Vm,null,null,null,null,null,null,null,null,null,null,null,null,B.cI,!1,null,null,null,B.J,null)
+B.Vt=new A.bJ("Alert acknowledged",null,null,null,null,null,null)
+B.Q_=new A.iL(B.Vt,null,null,null,null,null,null,null,null,null,null,null,null,B.cI,!1,null,null,null,B.J,null)
+B.Vp=new A.bJ("Forecast updated (demo mode)",null,null,null,null,null,null)
+B.Q0=new A.iL(B.Vp,null,null,null,null,null,null,null,null,null,null,null,null,B.cI,!1,null,null,null,B.J,null)
+B.Vl=new A.bJ("Please select a site first",null,null,null,null,null,null)
+B.zs=new A.iL(B.Vl,null,null,null,null,null,null,null,null,null,null,null,null,B.cI,!1,null,null,null,B.J,null)
 B.Vf=new A.bJ("Dispatch updated (demo mode)",null,null,null,null,null,null)
 B.Q1=new A.iL(B.Vf,null,null,null,null,null,null,null,null,null,null,null,null,B.cI,!1,null,null,null,B.J,null)
 B.zt=new A.Dh(0,"permissive")
@@ -94699,17 +94699,17 @@ B.Vg=new A.bJ("ACKNOWLEDGED",null,B.Rq,null,null,null,null)
 B.Vh=new A.bJ("kW",null,null,null,null,null,null)
 B.Vi=new A.bJ("Page Not Found",null,B.d7,null,null,null,null)
 B.Vj=new A.bJ("Overview",null,null,null,null,null,null)
-B.Vk=new A.bJ("SEDAI Solar2Grid",null,null,null,null,null,null)
-B.Vl=new A.bJ("Alerts",null,null,null,null,null,null)
-B.Vn=new A.bJ("Page Not Found",null,null,null,null,null,null)
-B.Vp=new A.bJ("Solar Forecast",null,null,null,null,null,null)
+B.Vk=new A.bJ("Alerts",null,null,null,null,null,null)
+B.Vm=new A.bJ("Page Not Found",null,null,null,null,null,null)
+B.Vo=new A.bJ("Solar Forecast",null,null,null,null,null,null)
 B.lH=new A.n(!0,null,null,null,null,null,18,B.an,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.zS=new A.bJ("Model Validation",null,B.lH,null,null,null,null)
-B.Vs=new A.bJ("No validation data available",null,null,null,null,null,null)
-B.Vt=new A.bJ("No dispatch data available",null,null,null,null,null,null)
-B.Vw=new A.bJ("Run Dispatch",null,null,null,null,null,null)
+B.Vr=new A.bJ("No validation data available",null,null,null,null,null,null)
+B.Vs=new A.bJ("No dispatch data available",null,null,null,null,null,null)
+B.Vv=new A.bJ("Run Dispatch",null,null,null,null,null,null)
 B.S9=new A.n(!0,B.j,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Vx=new A.bJ("Go to home page",null,B.S9,null,null,null,null)
+B.Vw=new A.bJ("Go to home page",null,B.S9,null,null,null,null)
+B.Vy=new A.bJ("SEDAI Solar2Grid v2.1",null,null,null,null,null,null)
 B.Vz=new A.bJ("Run Forecast",null,null,null,null,null,null)
 B.VB=new A.bJ("No forecast data available",null,null,null,null,null,null)
 B.VC=new A.bJ("Today's KPIs",null,B.lH,null,null,null,null)
